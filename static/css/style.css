@@ -108,3 +108,7 @@ a:active, a:hover {
     color: #777;
 }
 
+video {
+    width: 100%;
+}
+
