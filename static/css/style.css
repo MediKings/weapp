@@ -70,6 +70,7 @@ a:active, a:hover {
 }
 
 .content {
+    min-height: 80%;
     background-color: #fff;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
@@ -102,6 +103,7 @@ a:active, a:hover {
 
 .session .session-title {
     margin: 5px;
+    padding-left: 7px;
 }
 
 .session .desc {
